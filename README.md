@@ -1,5 +1,5 @@
 # Mouzikka-Music-Player
-This is a music player that will be designed in Python GUI (Tkinter) and pygame. The app will let the user select songs to play, controls to interact like pausing/stopping the music, controlling the volume, adding /removing songs from the playlist.
+This is a music player that is designed in Python GUI (Tkinter) using Multithreading and pygame. This music player will let the user to select the songs to play, controls to interact like pausing/stopping the music, scrolling down the music as per user needs, controlling the volume, adding /removing songs from the playlist, also one can add/remove songs to favourites, play songs from favourites.................. I have designed favorites as Database.
 
 Here is the screenshot of the gui interface of MOUZIKKA ------->>>>
 
